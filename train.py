@@ -12,8 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 """Binary for training Tensorflow models on the YouTube-8M dataset."""
-import sys
-sys.path.append('youtube-8m')
 
 import json
 import os
